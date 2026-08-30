@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zet-pkg.github.io/sitemap.xml
